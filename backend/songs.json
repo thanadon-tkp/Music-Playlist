@@ -1,0 +1,146 @@
+[
+  {
+    "name": "Sign of the Times",
+    "artist": "Harry Styles",
+    "album": "Harry Styles",
+    "genre": "Pop Rock",
+    "imageUrl": "https://i.scdn.co/image/ab67616d00001e026c619c39c853f8b1d67b7859",
+    "duration": 339,
+    "releaseDate": "2017-04-07T00:00:00Z"
+  },
+  {
+    "name": "Falling",
+    "artist": "Harry Styles",
+    "album": "Fine Line",
+    "genre": "Ballad",
+    "imageUrl": "https://i.scdn.co/image/ab67616d00001e0277fdcfda6535601aff081b6a",
+    "duration": 240,
+    "releaseDate": "2019-12-13T00:00:00Z"
+  },
+  {
+    "name": "Late Night Talking",
+    "artist": "Harry Styles",
+    "album": "Harry's House",
+    "genre": "Pop",
+    "imageUrl": "https://i.scdn.co/image/ab67616d00001e022e8ed79e177ff6011076f5f0",
+    "duration": 173,
+    "releaseDate": "2022-05-20T00:00:00Z"
+  },
+  {
+    "name": "As It Was",
+    "artist": "Harry Styles",
+    "album": "Harry's House",
+    "genre": "Pop",
+    "imageUrl": "https://i.scdn.co/image/ab67616d00001e022e8ed79e177ff6011076f5f0",
+    "duration": 167,
+    "releaseDate": "2022-04-01T00:00:00Z"
+  },
+  {
+    "name": "Watermelon Sugar",
+    "artist": "Harry Styles",
+    "album": "Fine Line",
+    "genre": "Pop Rock",
+    "imageUrl": "https://i.scdn.co/image/ab67616d00001e0277fdcfda6535601aff081b6a",
+    "duration": 174,
+    "releaseDate": "2019-11-16T00:00:00Z"
+  },
+  {
+    "name": "Adore You",
+    "artist": "Harry Styles",
+    "album": "Fine Line",
+    "genre": "Pop",
+    "imageUrl": "https://i.scdn.co/image/ab67616d00001e0277fdcfda6535601aff081b6a",
+    "duration": 207,
+    "releaseDate": "2019-12-06T00:00:00Z"
+  },
+  {
+    "name": "Just the Way You Are",
+    "artist": "Bruno Mars",
+    "album": "Doo-Wops & Hooligans",
+    "genre": "Pop",
+    "imageUrl": "https://i.scdn.co/image/ab67616d00001e02f6b55ca93bd33211227b502b",
+    "duration": 211,
+    "releaseDate": null
+  },
+  {
+    "name": "Smile",
+    "artist": "Katy Perry",
+    "album": "Smile",
+    "genre": "Pop",
+    "imageUrl": "https://i.scdn.co/image/ab67616d00004851e23f0e34fae2d9fe5a40e35b",
+    "duration": 201,
+    "releaseDate": "2020-08-28"
+  },
+  {
+    "name": "Just the Way You Are",
+    "artist": "Bruno Mars",
+    "album": "Doo-Wops & Hooligans",
+    "genre": "Pop",
+    "imageUrl": "https://i.scdn.co/image/ab67616d00001e02f6b55ca93bd33211227b502b",
+    "duration": 221,
+    "releaseDate": null
+  },
+  {
+    "name": "Happy",
+    "artist": "Pharrell Williams",
+    "album": "Girl",
+    "genre": "Pop",
+    "imageUrl": "https://i.scdn.co/image/ab67616d00004851d1578e6b4c7ee71255a42a9f",
+    "duration": 242,
+    "releaseDate": null
+  },
+  {
+    "name": "Just the Way You Are",
+    "artist": "Bruno Mars",
+    "album": "Doo-Wops & Hooligans",
+    "genre": "Pop",
+    "imageUrl": "https://i.scdn.co/image/ab67616d00001e02f6b55ca93bd33211227b502b",
+    "duration": 219,
+    "releaseDate": null
+  },
+  {
+    "name": "Happy",
+    "artist": "Pharrell Williams",
+    "album": "Girl",
+    "genre": "Pop",
+    "imageUrl": "https://i.scdn.co/image/ab67616d00004851d1578e6b4c7ee71255a42a9f",
+    "duration": 240,
+    "releaseDate": null
+  },
+  {
+    "name": "Uptown Funk",
+    "artist": "Mark Ronson, Bruno Mars",
+    "album": "Uptown Special",
+    "genre": "Funk",
+    "imageUrl": "https://i.scdn.co/image/ab67616d000048514b1a1d23967804d5a1256d2b",
+    "duration": 252,
+    "releaseDate": "2014-11-10"
+  },
+  {
+    "name": "Happy",
+    "artist": "Pharrell Williams",
+    "album": "Girl",
+    "genre": "Pop",
+    "imageUrl": "https://i.scdn.co/image/ab67616d00004851d1578e6b4c7ee71255a42a9f",
+    "duration": 250,
+    "releaseDate": "2013-11-21"
+  },
+  {
+    "name": "Smile",
+    "artist": "Katy Perry",
+    "album": "Smile",
+    "genre": "Pop",
+    "imageUrl": "https://i.scdn.co/image/ab67616d00004851e23f0e34fae2d9fe5a40e35b",
+    "duration": 215,
+    "releaseDate": "2020-08-28"
+  },
+  {
+    "name": "Just the Way You Are",
+    "artist": "Bruno Mars",
+    "album": "Doo-Wops & Hooligans",
+    "genre": "Pop",
+    "imageUrl": "https://i.scdn.co/image/ab67616d00001e02f6b55ca93bd33211227b502b",
+    "duration": 226,
+    "releaseDate": "2010-07-20"
+  }
+]
