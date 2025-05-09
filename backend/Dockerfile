@@ -16,5 +16,4 @@ COPY . .
 # Generate Prisma client
 RUN npx prisma generate
 
-# Default command
-CMD ["npm", "run", "dev"]
+CMD ["bash", "-c", "npx prisma migrate deploy && npm run start"]
